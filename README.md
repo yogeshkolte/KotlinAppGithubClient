@@ -13,7 +13,7 @@
 	•	Installation Instructions: https://kotlinlang.org/docs/tutorials/command-line.html
 	•	Verify Install: kotlinc -version
 
-	▪	If you would like to open the source code in IDE you could use Visual Studio Code or IntelliJ IDEA CE.
+	▪	Visual Studio Code or IntelliJ IDEA CE have support for Kotlin projects.
 
 	▪	Get the source code from https://github.com/yogeshkolte/KotlinAppGithubClient
 
