@@ -1,4 +1,5 @@
 # KotlinAppGithubClient
+	This application is a console application written in Kotlin. The main purpose is to explore different features offered by Kotlin.
 	▪	Install the latest Java Development Kit (JDK).
 	•	 For instructions follow the links below.
 	•	 https://docs.oracle.com/javase/10/install/installation-jdk-and-jre-macos.htm#JSJIG-GUID-0071963E-D247-4D15-BF49-AD19C7260740
